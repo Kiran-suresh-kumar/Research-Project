@@ -79,13 +79,17 @@ Research-Project Comming Soon
 
 Please ensure you have the following dependencies installed on your system:
 
-`- ℹ️ pytorch`
-
 `- ℹ️ numpy`
+
+`- ℹ️ sklearn`
 
 `- ℹ️ pandas`
 
-`- ℹ️ sagemaker`
+`- ℹ️ matplotlib`
+
+`- ℹ️ Scipy`
+
+`- ℹ️ Seaborn`
 
 ### 🔧 Installation
 
