@@ -26,7 +26,7 @@ import seaborn as sns
 from numpy import linalg as LA
 c = sns.color_palette("Blues",20)
 
-
+#you can play around with these terms 
 e1 = 1.
 g1 = -0.1
 e2 = -1.5
